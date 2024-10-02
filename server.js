@@ -1,6 +1,6 @@
 const express = require('express');
 const app = express();
-const port = 3000;
+const port = 8080;
 
 // Serve static files (HTML, CSS, JS)
 app.use(express.static('public'));
