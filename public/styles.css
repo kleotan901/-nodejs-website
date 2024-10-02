@@ -12,7 +12,7 @@
 body {
     font-family: var(--font-primary);
     color: var(--text-color);
-    background-color: #ffffff;
+    background-color: #6e5151;
 }
 
 /* Use variables throughout the CSS */
