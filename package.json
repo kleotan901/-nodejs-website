@@ -1,0 +1,15 @@
+{
+  "name": "my-nodejs-app",
+  "version": "1.0.0",
+  "description": "test version",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "kleotan901",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0",
+    "node-fetch": "^3.3.2"
+  }
+}
